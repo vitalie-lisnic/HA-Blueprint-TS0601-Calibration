@@ -1,5 +1,5 @@
 blueprint:
-  name: TS0601 Temperature Calibration (Z2M disabled legacy entry attributes)
+  name: TS0601 Temperature Calibration (Z2M disabled legacy entry attributes) - adapted for Vitalie
   description: Temperature calibration for Zigbee valve TS0601, according to external
     temperature sensor and disabled Z2M Home Assistant legacy entity attributes
   domain: automation
